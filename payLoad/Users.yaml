@@ -1,0 +1,21 @@
+json_add_user: >
+  {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@fake.com",
+      "password": "myPassword"
+  }
+
+json_update_user: >
+  {
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@fake.com",
+      "password": "myPassword"
+  }
+
+json_LogIn_user: >
+  {
+     "email": "test2@fake.com",
+     "password": "myNewPassword"
+  }
